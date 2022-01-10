@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">خدني معك</string>
+    <string name="baseUrl">http://192.168.2.86:81/take_me_drive/</string>
+</resources>
